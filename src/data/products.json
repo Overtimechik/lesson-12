@@ -1,0 +1,82 @@
+[
+  {
+    "product_name": "Ноутбук",
+    "seller_name": "Электроника ООО",
+    "quantity": 50,
+    "price": 50000,
+    "delivery_id": 101,
+    "id": 1
+  },
+  {
+    "product_name": "Холодильник",
+    "seller_name": "Бытовая Техника Инк.",
+    "quantity": 30,
+    "price": 30000,
+    "delivery_id": 102,
+    "id": 1
+  },
+  {
+    "product_name": "Фотоаппарат",
+    "seller_name": "Фото Технологии ГмбХ",
+    "quantity": 20,
+    "price": 15000,
+    "delivery_id": 103,
+    "id": 2
+  },
+  {
+    "product_name": "Смартфон",
+    "seller_name": "Мобильные Устройства Инк.",
+    "quantity": 100,
+    "price": 20000,
+    "delivery_id": 104,
+    "id": 2
+  },
+  {
+    "product_name": "Телевизор",
+    "seller_name": "Электроника ООО",
+    "quantity": 40,
+    "price": 35000,
+    "delivery_id": 105,
+    "id": 1
+  },
+  {
+    "product_name": "Микроволновка",
+    "seller_name": "Бытовая Техника Инк.",
+    "quantity": 25,
+    "price": 10000,
+    "delivery_id": 106,
+    "id": 2
+  },
+  {
+    "product_name": "Мышь компьютерная",
+    "seller_name": "Электроника ООО",
+    "quantity": 200,
+    "price": 500,
+    "delivery_id": 107,
+    "id": 1
+  },
+  {
+    "product_name": "Кофемашина",
+    "seller_name": "Бытовая Техника Инк.",
+    "quantity": 15,
+    "price": 25000,
+    "delivery_id": 108,
+    "id": 2
+  },
+  {
+    "product_name": "Утюг",
+    "seller_name": "Электроника ООО",
+    "quantity": 50,
+    "price": 1500,
+    "delivery_id": 109,
+    "id": 1
+  },
+  {
+    "product_name": "Принтер",
+    "seller_name": "Офис Техника Групп",
+    "quantity": 30,
+    "price": 8000,
+    "delivery_id": 110,
+    "id": 2
+  }
+]
